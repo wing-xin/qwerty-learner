@@ -4,11 +4,11 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
-    id: 'song-en',
+    id: 'song-a2',
     name: '歌曲学戏英语',
     description: '歌曲学戏英语',
     category: '歌曲学戏英语',
-    tags: ['大学英语'],
+    tags: ['英语a2'],
     url: '/dicts/song.json',
     length: 2607,
     language: 'en',
