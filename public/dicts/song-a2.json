@@ -1,85 +1,293 @@
-
-  [
-    {
-      "name": "count on me",
-      "trans": ["靠近我"],
-      "phonetic": "/kaʊnt ɒn miː/"
-    }, 
-    {
-      "name": "If you ever find yourself stuck in the middle of the sea.",
-      "trans": ["如果你发现自己被困在大海中央。"],
-      "phonetic": "/ɪf juː ˈevə faɪnd jɔːˈself stʌk ɪn ðə ˈmɪdl ɒv ðə siː/"
-    },
-    {
-      "name": "I'll sail the world to find you.",
-      "trans": ["我会航行全世界去寻找你。"],
-      "phonetic": "/aɪl seɪl ðə wɜːld tuː faɪnd juː/"
-    },
-    {
-      "name": "If you ever find yourself lost in the dark and you can't see.",
-      "trans": ["如果你发现自己迷失在黑暗中，什么也看不见。"],
-      "phonetic": "/ɪf juː ˈevə faɪnd jɔːˈself lɒst ɪn ðə dɑːk ænd juː kænt siː/"
-    },
-    {
-      "name": "I'll be the light to guide you.",
-      "trans": ["我会成为光芒指引你。"],
-      "phonetic": "/aɪl biː ðə laɪt tuː ɡaɪd juː/"
-    },
-    {
-      "name": "You can count on me like one two three.",
-      "trans": ["你可以像数1、2、3一样依靠我。"],
-      "phonetic": "/juː kæn kaʊnt ɒn miː laɪk wʌn tuː θriː/"
-    },
-    {
-      "name": "I'll be there.",
-      "trans": ["我会在你身边。"],
-      "phonetic": "/aɪl biː ðeə/"
-    },
-    {
-      "name": "And I know when I need it.",
-      "trans": ["而我知道当我需要的时候。"],
-      "phonetic": "/ænd aɪ nəʊ wen aɪ niːd ɪt/"
-    },
-    {
-      "name": "I can count on you like four three two.",
-      "trans": ["我也可以像数4、3、2一样依靠你。"],
-      "phonetic": "/aɪ kæn kaʊnt ɒn juː laɪk fɔː θriː tuː/"
-    },
-    {
-      "name": "You'll be there.",
-      "trans": ["你也会在我身边。"],
-      "phonetic": "/juːl biː ðeə/"
-    },
-    {
-      "name": "Cause that's what friends are supposed to do.",
-      "trans": ["因为朋友本就该如此。"],
-      "phonetic": "/kɔːz ðæts wɒt frendz ɑː(r) səˈpəʊzd tuː duː/"
-    },
-    {
-      "name": "If you're tossing and you're turning and you just can't fall asleep.",
-      "trans": ["如果你辗转反侧，无法入睡。"],
-      "phonetic": "/ɪf jʊə ˈtɒsɪŋ ænd jʊə ˈtɜːnɪŋ ænd juː dʒʌst kænt fɔːl əˈsliːp/"
-    },
-    {
-      "name": "I'll sing a song beside you.",
-      "trans": ["我会在你身边唱一首歌。"],
-      "phonetic": "/aɪl sɪŋ ə sɒŋ bɪˈsaɪd juː/"
-    },
-    {
-      "name": "And if you ever forget how much you really mean to me.",
-      "trans": ["如果你忘了你对我有多重要。"],
-      "phonetic": "/ænd ɪf juː ˈevə fəˈɡet haʊ mʌtʃ juː ˈriːəli miːn tuː miː/"
-    },
-    {
-      "name": "Every day I will remind you.",
-      "trans": ["我每天都会提醒你。"],
-      "phonetic": "/ˈevri deɪ aɪ wɪl rɪˈmaɪnd juː/"
-    }
-  ,
+[
+  {
+    "name": "count on me",
+    "trans": ["靠近我"],
+    "phonetic": "/kaʊnt ɒn miː/"
+  },
+  {
+    "name": "count on me",
+    "trans": ["靠近我"],
+    "phonetic": "/kaʊnt ɒn miː/"
+  },
+  {
+    "name": "If you ever find",
+    "trans": ["如果你发现"],
+    "phonetic": "/ɪf juː ˈevə faɪnd/"
+  },
+  {
+    "name": "yourself stuck in",
+    "trans": ["自己被困在"],
+    "phonetic": "/jɔːˈself stʌk ɪn/"
+  },
+  {
+    "name": "the middle of",
+    "trans": ["大海中央的"],
+    "phonetic": "/ðə ˈmɪdl ɒv/"
+  },
+  {
+    "name": "the sea.",
+    "trans": ["大海。"],
+    "phonetic": "/ðə siː/"
+  },
+  {
+    "name": "If you ever find yourself stuck in the middle of the sea.",
+    "trans": ["如果你发现自己被困在大海中央。"],
+    "phonetic": "/ɪf juː ˈevə faɪnd jɔːˈself stʌk ɪn ðə ˈmɪdl ɒv ðə siː/"
+  },
+  {
+    "name": "I'll sail the world",
+    "trans": ["我会航行全世界"],
+    "phonetic": "/aɪl seɪl ðə wɜːld/"
+  },
+  {
+    "name": "to find you.",
+    "trans": ["去寻找你。"],
+    "phonetic": "/tuː faɪnd juː/"
+  },
+  {
+    "name": "I'll sail the world to find you.",
+    "trans": ["我会航行全世界去寻找你。"],
+    "phonetic": "/aɪl seɪl ðə wɜːld tuː faɪnd juː/"
+  },
+  {
+    "name": "If you ever find",
+    "trans": ["如果你发现"],
+    "phonetic": "/ɪf juː ˈevə faɪnd/"
+  },
+  {
+    "name": "yourself lost in",
+    "trans": ["自己迷失在"],
+    "phonetic": "/jɔːˈself lɒst ɪn/"
+  },
+  {
+    "name": "the dark and",
+    "trans": ["黑暗中，且"],
+    "phonetic": "/ðə dɑːk ænd/"
+  },
+  {
+    "name": "you can't see.",
+    "trans": ["你看不见。"],
+    "phonetic": "/juː kænt siː/"
+  },
+  {
+    "name": "If you ever find yourself lost in the dark and you can't see.",
+    "trans": ["如果你发现自己迷失在黑暗中，什么也看不见。"],
+    "phonetic": "/ɪf juː ˈevə faɪnd jɔːˈself lɒst ɪn ðə dɑːk ænd juː kænt siː/"
+  },
+  {
+    "name": "I'll be the light",
+    "trans": ["我会成为光芒"],
+    "phonetic": "/aɪl biː ðə laɪt/"
+  },
+  {
+    "name": "to guide you.",
+    "trans": ["指引你。"],
+    "phonetic": "/tuː ɡaɪd juː/"
+  },
+  {
+    "name": "I'll be the light to guide you.",
+    "trans": ["我会成为光芒指引你。"],
+    "phonetic": "/aɪl biː ðə laɪt tuː ɡaɪd juː/"
+  },
+  {
+    "name": "You can count on",
+    "trans": ["你可以依靠"],
+    "phonetic": "/juː kæn kaʊnt ɒn/"
+  },
+  {
+    "name": "me like one",
+    "trans": ["我，像数1"],
+    "phonetic": "/miː laɪk wʌn/"
+  },
+  {
+    "name": "two three.",
+    "trans": ["、2、3一样。"],
+    "phonetic": "/tuː θriː/"
+  },
+  {
+    "name": "You can count on me like one two three.",
+    "trans": ["你可以像数1、2、3一样依靠我。"],
+    "phonetic": "/juː kæn kaʊnt ɒn miː laɪk wʌn tuː θriː/"
+  },
+  {
+    "name": "I'll be there.",
+    "trans": ["我会在你身边。"],
+    "phonetic": "/aɪl biː ðeə/"
+  },
+  {
+    "name": "I'll be there.",
+    "trans": ["我会在你身边。"],
+    "phonetic": "/aɪl biː ðeə/"
+  },
+  {
+    "name": "And I know when",
+    "trans": ["而我知道当"],
+    "phonetic": "/ænd aɪ nəʊ wen/"
+  },
+  {
+    "name": "I need it.",
+    "trans": ["我需要的时候。"],
+    "phonetic": "/aɪ niːd ɪt/"
+  },
+  {
+    "name": "And I know when I need it.",
+    "trans": ["而我知道当我需要的时候。"],
+    "phonetic": "/ænd aɪ nəʊ wen aɪ niːd ɪt/"
+  },
+  {
+    "name": "I can count on",
+    "trans": ["我也可以依靠"],
+    "phonetic": "/aɪ kæn kaʊnt ɒn/"
+  },
+  {
+    "name": "you like four",
+    "trans": ["你，像数4"],
+    "phonetic": "/juː laɪk fɔː/"
+  },
+  {
+    "name": "three two.",
+    "trans": ["、3、2一样。"],
+    "phonetic": "/θriː tuː/"
+  },
+  {
+    "name": "I can count on you like four three two.",
+    "trans": ["我也可以像数4、3、2一样依靠你。"],
+    "phonetic": "/aɪ kæn kaʊnt ɒn juː laɪk fɔː θriː tuː/"
+  },
+  {
+    "name": "You'll be there.",
+    "trans": ["你也会在我身边。"],
+    "phonetic": "/juːl biː ðeə/"
+  },
+  {
+    "name": "You'll be there.",
+    "trans": ["你也会在我身边。"],
+    "phonetic": "/juːl biː ðeə/"
+  },
+  {
+    "name": "Cause that's what",
+    "trans": ["因为朋友本"],
+    "phonetic": "/kɔːz ðæts wɒt/"
+  },
+  {
+    "name": "friends are supposed",
+    "trans": ["就该如此。"],
+    "phonetic": "/frendz ɑː(r) səˈpəʊzd/"
+  },
+  {
+    "name": "to do.",
+    "trans": [""],
+    "phonetic": "/tuː duː/"
+  },
+  {
+    "name": "Cause that's what friends are supposed to do.",
+    "trans": ["因为朋友本就该如此。"],
+    "phonetic": "/kɔːz ðæts wɒt frendz ɑː(r) səˈpəʊzd tuː duː/"
+  },
+  {
+    "name": "If you're tossing",
+    "trans": ["如果你辗转"],
+    "phonetic": "/ɪf jʊə ˈtɒsɪŋ/"
+  },
+  {
+    "name": "and you're turning",
+    "trans": ["反侧，"],
+    "phonetic": "/ænd jʊə ˈtɜːnɪŋ/"
+  },
+  {
+    "name": "and you just can't",
+    "trans": ["无法"],
+    "phonetic": "/ænd juː dʒʌst kænt/"
+  },
+  {
+    "name": "fall asleep.",
+    "trans": ["入睡。"],
+    "phonetic": "/fɔːl əˈsliːp/"
+  },
+  {
+    "name": "If you're tossing and you're turning and you just can't fall asleep.",
+    "trans": ["如果你辗转反侧，无法入睡。"],
+    "phonetic": "/ɪf jʊə ˈtɒsɪŋ ænd jʊə ˈtɜːnɪŋ ænd juː dʒʌst kænt fɔːl əˈsliːp/"
+  },
+  {
+    "name": "I'll sing a song",
+    "trans": ["我会唱一首歌"],
+    "phonetic": "/aɪl sɪŋ ə sɒŋ/"
+  },
+  {
+    "name": "beside you.",
+    "trans": ["在你身边。"],
+    "phonetic": "/bɪˈsaɪd juː/"
+  },
+  {
+    "name": "I'll sing a song beside you.",
+    "trans": ["我会在你身边唱一首歌。"],
+    "phonetic": "/aɪl sɪŋ ə sɒŋ bɪˈsaɪd juː/"
+  },
+  {
+    "name": "And if you ever",
+    "trans": ["如果你忘了"],
+    "phonetic": "/ænd ɪf juː ˈevə/"
+  },
+  {
+    "name": "forget how much",
+    "trans": ["你对我有多"],
+    "phonetic": "/fəˈɡet haʊ mʌtʃ/"
+  },
+  {
+    "name": "you really mean",
+    "trans": ["重要。"],
+    "phonetic": "/juː ˈriːəli miːn/"
+  },
+  {
+    "name": "to me.",
+    "trans": [""],
+    "phonetic": "/tuː miː/"
+  },
+  {
+    "name": "And if you ever forget how much you really mean to me.",
+    "trans": ["如果你忘了你对我有多重要。"],
+    "phonetic": "/ænd ɪf juː ˈevə fəˈɡet haʊ mʌtʃ juː ˈriːəli miːn tuː miː/"
+  },
+  {
+    "name": "Every day I will",
+    "trans": ["我每天都会"],
+    "phonetic": "/ˈevri deɪ aɪ wɪl/"
+  },
+  {
+    "name": "remind you.",
+    "trans": ["提醒你。"],
+    "phonetic": "/rɪˈmaɪnd juː/"
+  },
+  {
+    "name": "Every day I will remind you.",
+    "trans": ["我每天都会提醒你。"],
+    "phonetic": "/ˈevri deɪ aɪ wɪl rɪˈmaɪnd juː/"
+  },
   {
     "name": "lenom tree",
-     "trans": ["柠檬树"],
+    "trans": ["柠檬树"],
     "phonetic": "/ˈlemən triː/"
+  },
+  {
+    "name": "lenom tree",
+    "trans": ["柠檬树"],
+    "phonetic": "/ˈlemən triː/"
+  },
+  {
+    "name": "I'm wasting my time",
+    "trans": ["我在消磨时间"],
+    "phonetic": "/aɪm ˈweɪstɪŋ maɪ taɪm/"
+  },
+  {
+    "name": ", I got nothing",
+    "trans": ["，无事"],
+    "phonetic": "/, aɪ ɡɒt ˈnʌθɪŋ/"
+  },
+  {
+    "name": "to do.",
+    "trans": ["可做。"],
+    "phonetic": "/tuː duː/"
   },
   {
     "name": "I'm wasting my time, I got nothing to do.",
@@ -87,14 +295,54 @@
     "phonetic": "/aɪm ˈweɪstɪŋ maɪ taɪm, aɪ ɡɒt ˈnʌθɪŋ tuː duː/"
   },
   {
+    "name": "I'm hanging around",
+    "trans": ["我四处闲逛"],
+    "phonetic": "/aɪm ˈhæŋɪŋ əˈraʊnd/"
+  },
+  {
+    "name": ", I'm waiting for",
+    "trans": ["，一直在等"],
+    "phonetic": "/, aɪm ˈweɪtɪŋ fɔː/"
+  },
+  {
+    "name": "you.",
+    "trans": ["你。"],
+    "phonetic": "/juː/"
+  },
+  {
     "name": "I'm hanging around, I'm waiting for you.",
     "trans": ["我四处闲逛，一直在等你。"],
     "phonetic": "/aɪm ˈhæŋɪŋ əˈraʊnd, aɪm ˈweɪtɪŋ fɔː juː/"
   },
   {
+    "name": "But nothing ever",
+    "trans": ["但什么都没"],
+    "phonetic": "/bʌt ˈnʌθɪŋ ˈevə/"
+  },
+  {
+    "name": "happens, and I",
+    "trans": ["发生，我"],
+    "phonetic": "/ˈhæpənz, ænd aɪ/"
+  },
+  {
+    "name": "wonder.",
+    "trans": ["感到迷茫。"],
+    "phonetic": "/ˈwʌndə/"
+  },
+  {
     "name": "But nothing ever happens, and I wonder.",
     "trans": ["但什么都没发生，我感到迷茫。"],
     "phonetic": "/bʌt ˈnʌθɪŋ ˈevə ˈhæpənz, ænd aɪ ˈwʌndə/"
+  },
+  {
+    "name": "I'm driving around",
+    "trans": ["我开着车四处"],
+    "phonetic": "/aɪm ˈdraɪvɪŋ əˈraʊnd/"
+  },
+  {
+    "name": "in my car.",
+    "trans": ["转悠。"],
+    "phonetic": "/ɪn maɪ kɑː/"
   },
   {
     "name": "I'm driving around in my car.",
@@ -102,9 +350,39 @@
     "phonetic": "/aɪm ˈdraɪvɪŋ əˈraʊnd ɪn maɪ kɑː/"
   },
   {
+    "name": "I'm driving too fast",
+    "trans": ["我开得太快"],
+    "phonetic": "/aɪm ˈdraɪvɪŋ tuː fɑːst/"
+  },
+  {
+    "name": ", I'm driving too",
+    "trans": ["，开得太"],
+    "phonetic": "/, aɪm ˈdraɪvɪŋ tuː/"
+  },
+  {
+    "name": "far.",
+    "trans": ["远。"],
+    "phonetic": "/fɑː/"
+  },
+  {
     "name": "I'm driving too fast, I'm driving too far.",
     "trans": ["我开得太快，开得太远。"],
     "phonetic": "/aɪm ˈdraɪvɪŋ tuː fɑːst, aɪm ˈdraɪvɪŋ tuː fɑː/"
+  },
+  {
+    "name": "I'd like to change",
+    "trans": ["我想换个"],
+    "phonetic": "/aɪd laɪk tuː tʃeɪndʒ/"
+  },
+  {
+    "name": "my point of",
+    "trans": ["视角看"],
+    "phonetic": "/maɪ pɔɪnt ɒv/"
+  },
+  {
+    "name": "view.",
+    "trans": ["事情。"],
+    "phonetic": "/vjuː/"
   },
   {
     "name": "I'd like to change my point of view.",
@@ -112,9 +390,39 @@
     "phonetic": "/aɪd laɪk tuː tʃeɪndʒ maɪ pɔɪnt ɒv vjuː/"
   },
   {
+    "name": "I feel so lonely",
+    "trans": ["我感到无比孤单"],
+    "phonetic": "/aɪ fiːl səʊ ˈləʊnli/"
+  },
+  {
+    "name": ", I'm waiting for",
+    "trans": ["，一直在等"],
+    "phonetic": "/, aɪm ˈweɪtɪŋ fɔː/"
+  },
+  {
+    "name": "you.",
+    "trans": ["你。"],
+    "phonetic": "/juː/"
+  },
+  {
     "name": "I feel so lonely, I'm waiting for you.",
     "trans": ["我感到无比孤单，一直在等你。"],
     "phonetic": "/aɪ fiːl səʊ ˈləʊnli, aɪm ˈweɪtɪŋ fɔː juː/"
+  },
+  {
+    "name": "But nothing ever",
+    "trans": ["但什么都没"],
+    "phonetic": "/bʌt ˈnʌθɪŋ ˈevə/"
+  },
+  {
+    "name": "happens, and I",
+    "trans": ["发生，我"],
+    "phonetic": "/ˈhæpənz, ænd aɪ/"
+  },
+  {
+    "name": "wonder.",
+    "trans": ["感到迷茫。"],
+    "phonetic": "/ˈwʌndə/"
   },
   {
     "name": "But nothing ever happens, and I wonder.",
@@ -122,9 +430,34 @@
     "phonetic": "/bʌt ˈnʌθɪŋ ˈevə ˈhæpənz, ænd aɪ ˈwʌndə/"
   },
   {
+    "name": "I wonder how, I",
+    "trans": ["我不知道怎么回事"],
+    "phonetic": "/aɪ ˈwʌndə haʊ, aɪ/"
+  },
+  {
+    "name": "wonder why.",
+    "trans": ["也不明白为什么。"],
+    "phonetic": "/ˈwʌndə waɪ/"
+  },
+  {
     "name": "I wonder how, I wonder why.",
     "trans": ["我不知道怎么回事，也不明白为什么。"],
     "phonetic": "/aɪ ˈwʌndə haʊ, aɪ ˈwʌndə waɪ/"
+  },
+  {
+    "name": "Yesterday you told",
+    "trans": ["昨天你还跟"],
+    "phonetic": "/ˈjestədeɪ juː təʊld/"
+  },
+  {
+    "name": "me about the",
+    "trans": ["我说起那片"],
+    "phonetic": "/miː əˈbaʊt ðə/"
+  },
+  {
+    "name": "blue blue sky.",
+    "trans": ["蓝蓝的天空。"],
+    "phonetic": "/bluː bluː skaɪ/"
   },
   {
     "name": "Yesterday you told me about the blue blue sky.",
@@ -132,9 +465,39 @@
     "phonetic": "/ˈjestədeɪ juː təʊld miː əˈbaʊt ðə bluː bluː skaɪ/"
   },
   {
+    "name": "And all that I",
+    "trans": ["而我所能"],
+    "phonetic": "/ænd ɔːl ðæt aɪ/"
+  },
+  {
+    "name": "can see is just",
+    "trans": ["看见的，只是"],
+    "phonetic": "/kæn siː ɪz dʒʌst/"
+  },
+  {
+    "name": "a yellow lemon",
+    "trans": ["一棵黄色的柠檬"],
+    "phonetic": "/ə ˈjeləʊ ˈlemən/"
+  },
+  {
+    "name": "tree.",
+    "trans": ["树。"],
+    "phonetic": "/triː/"
+  },
+  {
     "name": "And all that I can see is just a yellow lemon tree.",
     "trans": ["而我所能看见的，只是一棵黄色的柠檬树。"],
     "phonetic": "/ænd ɔːl ðæt aɪ kæn siː ɪz dʒʌst ə ˈjeləʊ ˈlemən triː/"
+  },
+  {
+    "name": "I'm turning my head",
+    "trans": ["我把头"],
+    "phonetic": "/aɪm ˈtɜːnɪŋ maɪ hed/"
+  },
+  {
+    "name": "up and down.",
+    "trans": ["上下甩动。"],
+    "phonetic": "/ʌp ænd daʊn/"
   },
   {
     "name": "I'm turning my head up and down.",
@@ -142,80 +505,253 @@
     "phonetic": "/aɪm ˈtɜːnɪŋ maɪ hed ʌp ænd daʊn/"
   },
   {
+    "name": "I'm turning turning",
+    "trans": ["我转啊转啊"],
+    "phonetic": "/aɪm ˈtɜːnɪŋ ˈtɜːnɪŋ/"
+  },
+  {
+    "name": "turning turning",
+    "trans": ["转啊转啊"],
+    "phonetic": "/ˈtɜːnɪŋ ˈtɜːnɪŋ/"
+  },
+  {
+    "name": "turning around.",
+    "trans": ["转。"],
+    "phonetic": "/ˈtɜːnɪŋ əˈraʊnd/"
+  },
+  {
     "name": "I'm turning turning turning turning turning around.",
     "trans": ["我转啊转啊转啊转啊转。"],
     "phonetic": "/aɪm ˈtɜːnɪŋ ˈtɜːnɪŋ ˈtɜːnɪŋ ˈtɜːnɪŋ ˈtɜːnɪŋ əˈraʊnd/"
+  },
+  {
+    "name": "And all that I",
+    "trans": ["我所能"],
+    "phonetic": "/ænd ɔːl ðæt aɪ/"
+  },
+  {
+    "name": "can see is just",
+    "trans": ["看见的，只是"],
+    "phonetic": "/kæn siː ɪz dʒʌst/"
+  },
+  {
+    "name": "another lemon tree.",
+    "trans": ["另一棵柠檬树。"],
+    "phonetic": "/əˈnʌðə ˈlemən triː/"
   },
   {
     "name": "And all that I can see is just another lemon tree.",
     "trans": ["我所能看见的，只是另一棵柠檬树。"],
     "phonetic": "/ænd ɔːl ðæt aɪ kæn siː ɪz dʒʌst əˈnʌðə ˈlemən triː/"
   },
-    {
-      "name": "Love Story",
-      "trans": ["爱情故事"],
-      "phonetic": "/lʌv ˈstɔːri/"
-    },
-    {
-      "name": "We were both young when I first saw you.",
-      "trans": ["当我第一次见到你时，我们都还年轻。"],
-      "phonetic": "/wi wɜːr boʊ jʌŋ wen fɜːrst sɔː juː/"
-    },
-    {
-      "name": "I close my eyes and the flashback starts.",
-      "trans": ["我闭上双眼，回忆开始浮现。"],
-      "phonetic": "/aɪ kloʊz maɪ ænd ðə ˈflæʃbæk stɑːrts/"
-    },
-    {
-      "name": "Romeo, take me somewhere we can be alone.",
-      "trans": ["罗密欧，带我去一个只有我们的地方。"],
-      "phonetic": "/ˈroʊmiˌoʊ, teɪk miː ˈsʌmwer wiː kæn biː əˈloʊn/"
-    },
-    {
-      "name": "I'll be waiting, all there's left to do is run.",
-      "trans": ["我会一直等待，剩下的只有逃离。"],
-      "phonetic": "/aɪl bi ˈweɪtɪŋ, ɔːl ðerz left tuː duː ɪz rʌn/"
-    },
-  
-    {
-      "name": "You Belong With Me",
-      "trans": ["你属于我"],
-      "phonetic": "/juː bɪˈlɔːŋ wɪð miː/"
-    },
-    {
-      "name": "She wears short skirts, I wear T-shirts.",
-      "trans": ["她穿短裙，我穿T恤。"],
-      "phonetic": "/ʃi werz ʃɔːrt skɜːrts, aɪ werz ˈtiː ʃɜːrts/"
-    },
-    {
-      "name": "She's cheer captain, and I'm on the bleachers.",
-      "trans": ["她是啦啦队队长，而我坐在看台上。"],
-      "phonetic": "/ʃiːz tʃɪr ˈkæptən, ænd aɪm ɑːn ðə ˈbliːtʃərz/"
-    },
-    {
-      "name": "You belong with me, belong with me.",
-      "trans": ["你属于我，属于我。"],
-      "phonetic": "/juː bɪˈlɔːŋ wɪð miː, bɪˈlɔːŋ wɪð miː/"
-    },
-  
-    {
-      "name": "Better Man",
-      "trans": ["更好的人"],
-      "phonetic": "/ˈbetər mæn/"
-    },
-    {
-      "name": "I'll be a better man today.",
-      "trans": ["今天我会成为一个更好的人。"],
-      "phonetic": "/aɪl biː ə ˈbetər mæn təˈdeɪ/"
-    },
-    {
-      "name": "I'll be good to you, I'll be true to you.",
-      "trans": ["我会对你好，对你真诚。"],
-      "phonetic": "/aɪl biː ɡʊd tuː juː, aɪl biː truː tuː juː/"
-    },
-    {
-      "name": "I'll make a promise to you.",
-      "trans": ["我会向你许下承诺。"],
-      "phonetic": "/aɪl meɪk ə ˈprɑːmɪs tuː juː/"
-    }
+  {
+    "name": "Love Story",
+    "trans": ["爱情故事"],
+    "phonetic": "/lʌv ˈstɔːri/"
+  },
+  {
+    "name": "Love Story",
+    "trans": ["爱情故事"],
+    "phonetic": "/lʌv ˈstɔːri/"
+  },
+  {
+    "name": "We were both young",
+    "trans": ["当我第一次见你"],
+    "phonetic": "/wi wɜːr boʊ jʌŋ/"
+  },
+  {
+    "name": "when I first saw",
+    "trans": ["时，我们都还"],
+    "phonetic": "/wen fɜːrst sɔː/"
+  },
+  {
+    "name": "you.",
+    "trans": ["年轻。"],
+    "phonetic": "/juː/"
+  },
+  {
+    "name": "We were both young when I first saw you.",
+    "trans": ["当我第一次见到你时，我们都还年轻。"],
+    "phonetic": "/wi wɜːr boʊ jʌŋ wen fɜːrst sɔː juː/"
+  },
+  {
+    "name": "I close my eyes",
+    "trans": ["我闭上双眼"],
+    "phonetic": "/aɪ kloʊz maɪ ænd/"
+  },
+  {
+    "name": "and the flashback",
+    "trans": ["，回忆开始"],
+    "phonetic": "/ðə ˈflæʃbæk/"
+  },
+  {
+    "name": "starts.",
+    "trans": ["浮现。"],
+    "phonetic": "/stɑːrts/"
+  },
+  {
+    "name": "I close my eyes and the flashback starts.",
+    "trans": ["我闭上双眼，回忆开始浮现。"],
+    "phonetic": "/aɪ kloʊz maɪ ænd ðə ˈflæʃbæk stɑːrts/"
+  },
+  {
+    "name": "Romeo, take me",
+    "trans": ["罗密欧，带我去"],
+    "phonetic": "/ˈroʊmiˌoʊ, teɪk miː/"
+  },
+  {
+    "name": "somewhere we can",
+    "trans": ["一个只有我们"],
+    "phonetic": "/ˈsʌmwer wiː kæn/"
+  },
+  {
+    "name": "be alone.",
+    "trans": ["的地方。"],
+    "phonetic": "/biː əˈloʊn/"
+  },
+  {
+    "name": "Romeo, take me somewhere we can be alone.",
+    "trans": ["罗密欧，带我去一个只有我们的地方。"],
+    "phonetic": "/ˈroʊmiˌoʊ, teɪk miː ˈsʌmwer wiː kæn biː əˈloʊn/"
+  },
+  {
+    "name": "I'll be waiting, all",
+    "trans": ["我会一直等待"],
+    "phonetic": "/aɪl bi ˈweɪtɪŋ, ɔːl/"
+  },
+  {
+    "name": "there's left to do",
+    "trans": ["，剩下的只有"],
+    "phonetic": "/ðerz left tuː duː/"
+  },
+  {
+    "name": "is run.",
+    "trans": ["逃离。"],
+    "phonetic": "/ɪz rʌn/"
+  },
+  {
+    "name": "I'll be waiting, all there's left to do is run.",
+    "trans": ["我会一直等待，剩下的只有逃离。"],
+    "phonetic": "/aɪl bi ˈweɪtɪŋ, ɔːl ðerz left tuː duː ɪz rʌn/"
+  },
+  {
+    "name": "You Belong With Me",
+    "trans": ["你属于我"],
+    "phonetic": "/juː bɪˈlɔːŋ wɪð miː/"
+  },
+  {
+    "name": "You Belong With Me",
+    "trans": ["你属于我"],
+    "phonetic": "/juː bɪˈlɔːŋ wɪð miː/"
+  },
+  {
+    "name": "She wears short skirts",
+    "trans": ["她穿短裙"],
+    "phonetic": "/ʃi werz ʃɔːrt skɜːrts/"
+  },
+  {
+    "name": ", I wear T-shirts.",
+    "trans": ["，我穿T恤。"],
+    "phonetic": "/, aɪ werz ˈtiː ʃɜːrts/"
+  },
+  {
+    "name": "She wears short skirts, I wear T-shirts.",
+    "trans": ["她穿短裙，我穿T恤。"],
+    "phonetic": "/ʃi werz ʃɔːrt skɜːrts, aɪ werz ˈtiː ʃɜːrts/"
+  },
+  {
+    "name": "She's cheer captain",
+    "trans": ["她是啦啦队队长"],
+    "phonetic": "/ʃiːz tʃɪr ˈkæptən/"
+  },
+  {
+    "name": ", and I'm on the",
+    "trans": ["，而我坐在"],
+    "phonetic": "/, ænd aɪm ɑːn ðə/"
+  },
+  {
+    "name": "bleachers.",
+    "trans": ["看台上。"],
+    "phonetic": "/ˈbliːtʃərz/"
+  },
+  {
+    "name": "She's cheer captain, and I'm on the bleachers.",
+    "trans": ["她是啦啦队队长，而我坐在看台上。"],
+    "phonetic": "/ʃiːz tʃɪr ˈkæptən, ænd aɪm ɑːn ðə ˈbliːtʃərz/"
+  },
+  {
+    "name": "You belong with me",
+    "trans": ["你属于我"],
+    "phonetic": "/juː bɪˈlɔːŋ wɪð miː/"
+  },
+  {
+    "name": ", belong with me.",
+    "trans": ["，属于我。"],
+    "phonetic": "/, bɪˈlɔːŋ wɪð miː/"
+  },
+  {
+    "name": "You belong with me, belong with me.",
+    "trans": ["你属于我，属于我。"],
+    "phonetic": "/juː bɪˈlɔːŋ wɪð miː, bɪˈlɔːŋ wɪð miː/"
+  },
+  {
+    "name": "Better Man",
+    "trans": ["更好的人"],
+    "phonetic": "/ˈbetər mæn/"
+  },
+  {
+    "name": "Better Man",
+    "trans": ["更好的人"],
+    "phonetic": "/ˈbetər mæn/"
+  },
+  {
+    "name": "I'll be a better",
+    "trans": ["今天我会成为"],
+    "phonetic": "/aɪl biː ə ˈbetər/"
+  },
+  {
+    "name": "man today.",
+    "trans": ["一个更好的人。"],
+    "phonetic": "/mæn təˈdeɪ/"
+  },
+  {
+    "name": "I'll be a better man today.",
+    "trans": ["今天我会成为一个更好的人。"],
+    "phonetic": "/aɪl biː ə ˈbetər mæn təˈdeɪ/"
+  },
+  {
+    "name": "I'll be good to",
+    "trans": ["我会对你好"],
+    "phonetic": "/aɪl biː ɡʊd tuː/"
+  },
+  {
+    "name": "you, I'll be true",
+    "trans": ["，对你真诚。"],
+    "phonetic": "/juː, aɪl biː truː/"
+  },
+  {
+    "name": "to you.",
+    "trans": [""],
+    "phonetic": "/tuː juː/"
+  },
+  {
+    "name": "I'll be good to you, I'll be true to you.",
+    "trans": ["我会对你好，对你真诚。"],
+    "phonetic": "/aɪl biː ɡʊd tuː juː, aɪl biː truː tuː juː/"
+  },
+  {
+    "name": "I'll make a promise",
+    "trans": ["我会向你许下"],
+    "phonetic": "/aɪl meɪk ə ˈprɑːmɪs/"
+  },
+  {
+    "name": "to you.",
+    "trans": ["承诺。"],
+    "phonetic": "/tuː juː/"
+  },
+  {
+    "name": "I'll make a promise to you.",
+    "trans": ["我会向你许下承诺。"],
+    "phonetic": "/aɪl meɪk ə ˈprɑːmɪs tuː juː/"
+  }
 ]
