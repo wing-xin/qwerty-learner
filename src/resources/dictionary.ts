@@ -9,7 +9,7 @@ const chinaExam: DictionaryResource[] = [
     description: '歌曲学戏英语',
     category: '歌曲学戏英语',
     tags: ['英语a2'],
-    url: '/dicts/song.json',
+    url: '/dicts/song-a2.json',
     length: 2607,
     language: 'en',
     languageCategory: 'en',
