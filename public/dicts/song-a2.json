@@ -1,303 +1,15 @@
 [
+  // ===== 歌名：count on me =====
   {
     "name": "count on me",
     "trans": ["依靠我"],
     "notation": "/kaʊnt ɒn miː/"
   },
+  // ===== 单词拆分 + 完整句子：If you ever find yourself stuck in the middle of the sea =====
   {
-    "name": "count on me",
-    "trans": ["依靠我"],
-    "notation": "/kaʊnt ɒn miː/"
-  },
-  {
-    "name": "If you ever find",
-    "trans": ["如果你发现"],
-    "notation": "/ɪf juː ˈevə faɪnd/"
-  },
-  {
-    "name": "yourself stuck in",
-    "trans": ["自己被困在"],
-    "notation": "/jɔːˈself stʌk ɪn/"
-  },
-  {
-    "name": "the middle of",
-    "trans": ["大海中央的"],
-    "notation": "/ðə ˈmɪdl ɒv/"
-  },
-  {
-    "name": "the sea",
-    "trans": ["大海"],
-    "notation": "/ðə siː/"
-  },
-  {
-    "name": "If you ever find yourself stuck in the middle of the sea",
-    "trans": ["如果你发现自己被困在大海中央"],
-    "notation": "/ɪf juː ˈevə faɪnd jɔːˈself stʌk ɪn ðə ˈmɪdl ɒv ðə siː/"
-  },
-  {
-    "name": "I'll sail the world",
-    "trans": ["我会航行全世界"],
-    "notation": "/aɪl seɪl ðə wɜːld/"
-  },
-  {
-    "name": "to find you",
-    "trans": ["去寻找你"],
-    "notation": "/tuː faɪnd juː/"
-  },
-  {
-    "name": "I'll sail the world to find you",
-    "trans": ["我会航行全世界去寻找你"],
-    "notation": "/aɪl seɪl ðə wɜːld tuː faɪnd juː/"
-  },
-  {
-    "name": "If you ever find",
-    "trans": ["如果你发现"],
-    "notation": "/ɪf juː ˈevə faɪnd/"
-  },
-  {
-    "name": "yourself lost in",
-    "trans": ["自己迷失在"],
-    "notation": "/jɔːˈself lɒst ɪn/"
-  },
-  {
-    "name": "the dark and",
-    "trans": ["黑暗中，且"],
-    "notation": "/ðə dɑːk ænd/"
-  },
-  {
-    "name": "you can't see",
-    "trans": ["你看不见"],
-    "notation": "/juː kænt siː/"
-  },
-  {
-    "name": "If you ever find yourself lost in the dark and you can't see",
-    "trans": ["如果你发现自己迷失在黑暗中，什么也看不见"],
-    "notation": "/ɪf juː ˈevə faɪnd jɔːˈself lɒst ɪn ðə dɑːk ænd juː kænt siː/"
-  },
-  {
-    "name": "I'll be the light",
-    "trans": ["我会成为光芒"],
-    "notation": "/aɪl biː ðə laɪt/"
-  },
-  {
-    "name": "to guide you",
-    "trans": ["指引你"],
-    "notation": "/tuː ɡaɪd juː/"
-  },
-  {
-    "name": "I'll be the light to guide you",
-    "trans": ["我会成为光芒指引你"],
-    "notation": "/aɪl biː ðə laɪt tuː ɡaɪd juː/"
-  },
-  {
-    "name": "You can count on",
-    "trans": ["你可以依靠"],
-    "notation": "/juː kæn kaʊnt ɒn/"
-  },
-  {
-    "name": "me like one",
-    "trans": ["我，像数1"],
-    "notation": "/miː laɪk wʌn/"
-  },
-  {
-    "name": "two three",
-    "trans": ["、2、3一样"],
-    "notation": "/tuː θriː/"
-  },
-  {
-    "name": "You can count on me like one two three",
-    "trans": ["你可以像数1、2、3一样依靠我"],
-    "notation": "/juː kæn kaʊnt ɒn miː laɪk wʌn tuː θriː/"
-  },
-  {
-    "name": "I'll be there",
-    "trans": ["我会在你身边"],
-    "notation": "/aɪl biː ðeə/"
-  },
-  {
-    "name": "I'll be there",
-    "trans": ["我会在你身边"],
-    "notation": "/aɪl biː ðeə/"
-  },
-  {
-    "name": "And I know when",
-    "trans": ["而我知道当"],
-    "notation": "/ænd aɪ nəʊ wen/"
-  },
-  {
-    "name": "I need it",
-    "trans": ["我需要的时候"],
-    "notation": "/aɪ niːd ɪt/"
-  },
-  {
-    "name": "And I know when I need it",
-    "trans": ["而我知道当我需要的时候"],
-    "notation": "/ænd aɪ nəʊ wen aɪ niːd ɪt/"
-  },
-  {
-    "name": "I can count on",
-    "trans": ["我也可以依靠"],
-    "notation": "/aɪ kæn kaʊnt ɒn/"
-  },
-  {
-    "name": "you like four",
-    "trans": ["你，像数4"],
-    "notation": "/juː laɪk fɔː/"
-  },
-  {
-    "name": "three two",
-    "trans": ["、3、2一样"],
-    "notation": "/θriː tuː/"
-  },
-  {
-    "name": "I can count on you like four three two",
-    "trans": ["我也可以像数4、3、2一样依靠你"],
-    "notation": "/aɪ kæn kaʊnt ɒn juː laɪk fɔː θriː tuː/"
-  },
-  {
-    "name": "You'll be there",
-    "trans": ["你也会在我身边"],
-    "notation": "/juːl biː ðeə/"
-  },
-  {
-    "name": "You'll be there",
-    "trans": ["你也会在我身边"],
-    "notation": "/juːl biː ðeə/"
-  },
-  {
-    "name": "Cause that's what",
-    "trans": ["因为朋友本"],
-    "notation": "/kɔːz ðæts wɒt/"
-  },
-  {
-    "name": "friends are supposed",
-    "trans": ["就该如此"],
-    "notation": "/frendz ɑː(r) səˈpəʊzd/"
-  },
-  {
-    "name": "to do",
-    "trans": ["如此"],
-    "notation": "/tuː duː/"
-  },
-  {
-    "name": "Cause that's what friends are supposed to do",
-    "trans": ["因为朋友本就该如此"],
-    "notation": "/kɔːz ðæts wɒt frendz ɑː(r) səˈpəʊzd tuː duː/"
-  },
-  {
-    "name": "If you're tossing",
-    "trans": ["如果你辗转"],
-    "notation": "/ɪf jʊə ˈtɒsɪŋ/"
-  },
-  {
-    "name": "and you're turning",
-    "trans": ["反侧"],
-    "notation": "/ænd jʊə ˈtɜːnɪŋ/"
-  },
-  {
-    "name": "and you just can't",
-    "trans": ["无法"],
-    "notation": "/ænd juː dʒʌst kænt/"
-  },
-  {
-    "name": "fall asleep",
-    "trans": ["入睡"],
-    "notation": "/fɔːl əˈsliːp/"
-  },
-  {
-    "name": "If you're tossing and you're turning and you just can't fall asleep",
-    "trans": ["如果你辗转反侧，无法入睡"],
-    "notation": "/ɪf jʊə ˈtɒsɪŋ ænd jʊə ˈtɜːnɪŋ ænd juː dʒʌst kænt fɔːl əˈsliːp/"
-  },
-  {
-    "name": "I'll sing a song",
-    "trans": ["我会唱一首歌"],
-    "notation": "/aɪl sɪŋ ə sɒŋ/"
-  },
-  {
-    "name": "beside you",
-    "trans": ["在你身边"],
-    "notation": "/bɪˈsaɪd juː/"
-  },
-  {
-    "name": "I'll sing a song beside you",
-    "trans": ["我会在你身边唱一首歌"],
-    "notation": "/aɪl sɪŋ ə sɒŋ bɪˈsaɪd juː/"
-  },
-  {
-    "name": "And if you ever",
-    "trans": ["如果你忘了"],
-    "notation": "/ænd ɪf juː ˈevə/"
-  },
-  {
-    "name": "forget how much",
-    "trans": ["你对我有多"],
-    "notation": "/fəˈɡet haʊ mʌtʃ/"
-  },
-  {
-    "name": "you really mean",
-    "trans": ["重要"],
-    "notation": "/juː ˈriːəli miːn/"
-  },
-  {
-    "name": "to me",
-    "trans": ["重要"],
-    "notation": "/tuː miː/"
-  },
-  {
-    "name": "And if you ever forget how much you really mean to me",
-    "trans": ["如果你忘了你对我有多重要"],
-    "notation": "/ænd ɪf juː ˈevə fəˈɡet haʊ mʌtʃ juː ˈriːəli miːn tuː miː/"
-  },
-  {
-    "name": "Every day I will",
-    "trans": ["我每天都会"],
-    "notation": "/ˈevri deɪ aɪ wɪl/"
-  },
-  {
-    "name": "remind you",
-    "trans": ["提醒你"],
-    "notation": "/rɪˈmaɪnd juː/"
-  },
-  {
-    "name": "Every day I will remind you",
-    "trans": ["我每天都会提醒你"],
-    "notation": "/ˈevri deɪ aɪ wɪl rɪˈmaɪnd juː/"
-  },
-  {
-    "name": "lemon tree",
-    "trans": ["柠檬树"],
-    "notation": "/ˈlemən triː/"
-  },
-  {
-    "name": "I'm wasting my time",
-    "trans": ["我在消磨时间"],
-    "notation": "/aɪm ˈweɪstɪŋ maɪ taɪm/"
-  },
-  {
-    "name": ", I got nothing",
-    "trans": ["，无事"],
-    "notation": "/, aɪ ɡɒt ˈnʌθɪŋ/"
-  },
-  {
-    "name": "to do",
-    "trans": ["可做"],
-    "notation": "/tuː duː/"
-  },
-  {
-    "name": "I'm wasting my time, I got nothing to do",
-    "trans": ["我在消磨时间，无事可做"],
-    "notation": "/aɪm ˈweɪstɪŋ maɪ taɪm, aɪ ɡɒt ˈnʌθɪŋ tuː duː/"
-  },
-  {
-    "name": "I'm hanging around",
-    "trans": ["我四处闲逛"],
-    "notation": "/aɪm ˈhæŋɪŋ əˈraʊnd/"
-  },
-  {
-    "name": ", I'm waiting for",
-    "trans": ["，一直在等"],
-    "notation": "/, aɪm ˈweɪtɪŋ fɔː/"
+    "name": "If",
+    "trans": ["如果"],
+    "notation": "/ɪf/"
   },
   {
     "name": "you",
@@ -305,23 +17,500 @@
     "notation": "/juː/"
   },
   {
+    "name": "ever",
+    "trans": ["曾经；无论何时"],
+    "notation": "/ˈevə/"
+  },
+  {
+    "name": "find",
+    "trans": ["发现；找到"],
+    "notation": "/faɪnd/"
+  },
+  {
+    "name": "yourself",
+    "trans": ["你自己"],
+    "notation": "/jɔːˈself/"
+  },
+  {
+    "name": "stuck",
+    "trans": ["被困的；卡住的"],
+    "notation": "/stʌk/"
+  },
+  {
+    "name": "in",
+    "trans": ["在……里面"],
+    "notation": "/ɪn/"
+  },
+  {
+    "name": "the",
+    "trans": ["定冠词（无实义）"],
+    "notation": "/ðə/"
+  },
+  {
+    "name": "middle",
+    "trans": ["中间；中央"],
+    "notation": "/ˈmɪdl/"
+  },
+  {
+    "name": "of",
+    "trans": ["……的"],
+    "notation": "/ɒv/"
+  },
+  {
+    "name": "sea",
+    "trans": ["大海"],
+    "notation": "/siː/"
+  },
+  {
+    "name": "If you ever find yourself stuck in the middle of the sea",
+    "trans": ["如果你发现自己被困在大海中央"],
+    "notation": "/ɪf juː ˈevə faɪnd jɔːˈself stʌk ɪn ðə ˈmɪdl ɒv ðə siː/"
+  },
+  // ===== 单词拆分 + 完整句子：I'll sail the world to find you =====
+  {
+    "name": "I'll",
+    "trans": ["我会（I will 的缩写）"],
+    "notation": "/aɪl/"
+  },
+  {
+    "name": "sail",
+    "trans": ["航行；扬帆"],
+    "notation": "/seɪl/"
+  },
+  {
+    "name": "world",
+    "trans": ["世界"],
+    "notation": "/wɜːld/"
+  },
+  {
+    "name": "to",
+    "trans": ["去；为了"],
+    "notation": "/tuː/"
+  },
+  {
+    "name": "I'll sail the world to find you",
+    "trans": ["我会航行全世界去寻找你"],
+    "notation": "/aɪl seɪl ðə wɜːld tuː faɪnd juː/"
+  },
+  // ===== 单词拆分 + 完整句子：If you ever find yourself lost in the dark and you can't see =====
+  {
+    "name": "lost",
+    "trans": ["迷失的；丢失的"],
+    "notation": "/lɒst/"
+  },
+  {
+    "name": "dark",
+    "trans": ["黑暗；黑暗的"],
+    "notation": "/dɑːk/"
+  },
+  {
+    "name": "and",
+    "trans": ["和；并且"],
+    "notation": "/ænd/"
+  },
+  {
+    "name": "can't",
+    "trans": ["不能（can not 的缩写）"],
+    "notation": "/kænt/"
+  },
+  {
+    "name": "see",
+    "trans": ["看见；看到"],
+    "notation": "/siː/"
+  },
+  {
+    "name": "If you ever find yourself lost in the dark and you can't see",
+    "trans": ["如果你发现自己迷失在黑暗中，什么也看不见"],
+    "notation": "/ɪf juː ˈevə faɪnd jɔːˈself lɒst ɪn ðə dɑːk ænd juː kænt siː/"
+  },
+  // ===== 单词拆分 + 完整句子：I'll be the light to guide you =====
+  {
+    "name": "be",
+    "trans": ["是；成为"],
+    "notation": "/biː/"
+  },
+  {
+    "name": "light",
+    "trans": ["光；光芒"],
+    "notation": "/laɪt/"
+  },
+  {
+    "name": "guide",
+    "trans": ["指引；引导"],
+    "notation": "/ɡaɪd/"
+  },
+  {
+    "name": "I'll be the light to guide you",
+    "trans": ["我会成为光芒指引你"],
+    "notation": "/aɪl biː ðeə laɪt tuː ɡaɪd juː/"
+  },
+  // ===== 单词拆分 + 完整句子：You can count on me like one two three =====
+  {
+    "name": "can",
+    "trans": ["能够；可以"],
+    "notation": "/kæn/"
+  },
+  {
+    "name": "count",
+    "trans": ["依靠；计数"],
+    "notation": "/kaʊnt/"
+  },
+  {
+    "name": "on",
+    "trans": ["在……上；依靠"],
+    "notation": "/ɒn/"
+  },
+  {
+    "name": "me",
+    "trans": ["我（宾格）"],
+    "notation": "/miː/"
+  },
+  {
+    "name": "like",
+    "trans": ["像；喜欢"],
+    "notation": "/laɪk/"
+  },
+  {
+    "name": "one",
+    "trans": ["一；一个"],
+    "notation": "/wʌn/"
+  },
+  {
+    "name": "two",
+    "trans": ["二；两个"],
+    "notation": "/tuː/"
+  },
+  {
+    "name": "three",
+    "trans": ["三；三个"],
+    "notation": "/θriː/"
+  },
+  {
+    "name": "You can count on me like one two three",
+    "trans": ["你可以像数1、2、3一样依靠我"],
+    "notation": "/juː kæn kaʊnt ɒn miː laɪk wʌn tuː θriː/"
+  },
+  // ===== 单词拆分 + 完整句子：I'll be there =====
+  {
+    "name": "there",
+    "trans": ["那里；在那里"],
+    "notation": "/ðeə/"
+  },
+  {
+    "name": "I'll be there",
+    "trans": ["我会在你身边"],
+    "notation": "/aɪl biː ðeə/"
+  },
+  {
+    "name": "I'll be there",
+    "trans": ["我会在你身边"],
+    "notation": "/aɪl biː ðeə/"
+  },
+  // ===== 单词拆分 + 完整句子：And I know when I need it =====
+  {
+    "name": "And",
+    "trans": ["和；而且"],
+    "notation": "/ænd/"
+  },
+  {
+    "name": "know",
+    "trans": ["知道；了解"],
+    "notation": "/nəʊ/"
+  },
+  {
+    "name": "when",
+    "trans": ["当……时；什么时候"],
+    "notation": "/wen/"
+  },
+  {
+    "name": "need",
+    "trans": ["需要；必须"],
+    "notation": "/niːd/"
+  },
+  {
+    "name": "it",
+    "trans": ["它（指代前文内容）"],
+    "notation": "/ɪt/"
+  },
+  {
+    "name": "And I know when I need it",
+    "trans": ["而我知道当我需要的时候"],
+    "notation": "/ænd aɪ nəʊ wen aɪ niːd ɪt/"
+  },
+  // ===== 单词拆分 + 完整句子：I can count on you like four three two =====
+  {
+    "name": "four",
+    "trans": ["四；四个"],
+    "notation": "/fɔː/"
+  },
+  {
+    "name": "I can count on you like four three two",
+    "trans": ["我也可以像数4、3、2一样依靠你"],
+    "notation": "/aɪ kæn kaʊnt ɒn juː laɪk fɔː θriː tuː/"
+  },
+  // ===== 单词拆分 + 完整句子：You'll be there =====
+  {
+    "name": "You'll",
+    "trans": ["你会（You will 的缩写）"],
+    "notation": "/juːl/"
+  },
+  {
+    "name": "You'll be there",
+    "trans": ["你也会在我身边"],
+    "notation": "/juːl biː ðeə/"
+  },
+  {
+    "name": "You'll be there",
+    "trans": ["你也会在我身边"],
+    "notation": "/juːl biː ðeə/"
+  },
+  // ===== 单词拆分 + 完整句子：Cause that's what friends are supposed to do =====
+  {
+    "name": "Cause",
+    "trans": ["因为（Because 的缩写）"],
+    "notation": "/kɔːz/"
+  },
+  {
+    "name": "that's",
+    "trans": ["那是（that is 的缩写）"],
+    "notation": "/ðæts/"
+  },
+  {
+    "name": "what",
+    "trans": ["什么；……的事物"],
+    "notation": "/wɒt/"
+  },
+  {
+    "name": "friends",
+    "trans": ["朋友（复数）"],
+    "notation": "/frendz/"
+  },
+  {
+    "name": "are",
+    "trans": ["是（be 动词复数）"],
+    "notation": "/ɑː(r)/"
+  },
+  {
+    "name": "supposed",
+    "trans": ["应该；被期望"],
+    "notation": "/səˈpəʊzd/"
+  },
+  {
+    "name": "do",
+    "trans": ["做；干"],
+    "notation": "/duː/"
+  },
+  {
+    "name": "Cause that's what friends are supposed to do",
+    "trans": ["因为朋友本就该如此"],
+    "notation": "/kɔːz ðæts wɒt frendz ɑː(r) səˈpəʊzd tuː duː/"
+  },
+  // ===== 单词拆分 + 完整句子：If you're tossing and you're turning and you just can't fall asleep =====
+  {
+    "name": "you're",
+    "trans": ["你是（you are 的缩写）"],
+    "notation": "/jʊə/"
+  },
+  {
+    "name": "tossing",
+    "trans": ["辗转；抛动"],
+    "notation": "/ˈtɒsɪŋ/"
+  },
+  {
+    "name": "turning",
+    "trans": ["转动；翻身"],
+    "notation": "/ˈtɜːnɪŋ/"
+  },
+  {
+    "name": "just",
+    "trans": ["仅仅；只是"],
+    "notation": "/dʒʌst/"
+  },
+  {
+    "name": "fall",
+    "trans": ["落下；陷入"],
+    "notation": "/fɔːl/"
+  },
+  {
+    "name": "asleep",
+    "trans": ["睡着的；入睡"],
+    "notation": "/əˈsliːp/"
+  },
+  {
+    "name": "If you're tossing and you're turning and you just can't fall asleep",
+    "trans": ["如果你辗转反侧，无法入睡"],
+    "notation": "/ɪf jʊə ˈtɒsɪŋ ænd jʊə ˈtɜːnɪŋ ænd juː dʒʌst kænt fɔːl əˈsliːp/"
+  },
+  // ===== 单词拆分 + 完整句子：I'll sing a song beside you =====
+  {
+    "name": "sing",
+    "trans": ["唱歌；演唱"],
+    "notation": "/sɪŋ/"
+  },
+  {
+    "name": "a",
+    "trans": ["一个（不定冠词）"],
+    "notation": "/ə/"
+  },
+  {
+    "name": "song",
+    "trans": ["歌曲；歌"],
+    "notation": "/sɒŋ/"
+  },
+  {
+    "name": "beside",
+    "trans": ["在……旁边；在……身边"],
+    "notation": "/bɪˈsaɪd/"
+  },
+  {
+    "name": "I'll sing a song beside you",
+    "trans": ["我会在你身边唱一首歌"],
+    "notation": "/aɪl sɪŋ ə sɒŋ bɪˈsaɪd juː/"
+  },
+  // ===== 单词拆分 + 完整句子：And if you ever forget how much you really mean to me =====
+  {
+    "name": "forget",
+    "trans": ["忘记；遗忘"],
+    "notation": "/fəˈɡet/"
+  },
+  {
+    "name": "how",
+    "trans": ["多么；如何"],
+    "notation": "/haʊ/"
+  },
+  {
+    "name": "much",
+    "trans": ["多少；非常"],
+    "notation": "/mʌtʃ/"
+  },
+  {
+    "name": "really",
+    "trans": ["真正地；确实"],
+    "notation": "/ˈriːəli/"
+  },
+  {
+    "name": "mean",
+    "trans": ["意味着；重要"],
+    "notation": "/miːn/"
+  },
+  {
+    "name": "And if you ever forget how much you really mean to me",
+    "trans": ["如果你忘了你对我有多重要"],
+    "notation": "/ænd ɪf juː ˈevə fəˈɡet haʊ mʌtʃ juː ˈriːəli miːn tuː miː/"
+  },
+  // ===== 单词拆分 + 完整句子：Every day I will remind you =====
+  {
+    "name": "Every",
+    "trans": ["每一个；每个"],
+    "notation": "/ˈevri/"
+  },
+  {
+    "name": "day",
+    "trans": ["天；日子"],
+    "notation": "/deɪ/"
+  },
+  {
+    "name": "will",
+    "trans": ["将要；会"],
+    "notation": "/wɪl/"
+  },
+  {
+    "name": "remind",
+    "trans": ["提醒；使想起"],
+    "notation": "/rɪˈmaɪnd/"
+  },
+  {
+    "name": "Every day I will remind you",
+    "trans": ["我每天都会提醒你"],
+    "notation": "/ˈevri deɪ aɪ wɪl rɪˈmaɪnd juː/"
+  },
+  // ===== 歌名：lemon tree =====
+  {
+    "name": "lemon tree",
+    "trans": ["柠檬树"],
+    "notation": "/ˈlemən triː/"
+  },
+  // ===== 单词拆分 + 完整句子：I'm wasting my time, I got nothing to do =====
+  {
+    "name": "I'm",
+    "trans": ["我是（I am 的缩写）"],
+    "notation": "/aɪm/"
+  },
+  {
+    "name": "wasting",
+    "trans": ["浪费；消耗"],
+    "notation": "/ˈweɪstɪŋ/"
+  },
+  {
+    "name": "my",
+    "trans": ["我的"],
+    "notation": "/maɪ/"
+  },
+  {
+    "name": "time",
+    "trans": ["时间；时光"],
+    "notation": "/taɪm/"
+  },
+  {
+    "name": ",",
+    "trans": ["逗号（无实义）"],
+    "notation": "/"
+  },
+  {
+    "name": "got",
+    "trans": ["得到；拥有（get 的过去式）"],
+    "notation": "/ɡɒt/"
+  },
+  {
+    "name": "nothing",
+    "trans": ["没有什么；无事"],
+    "notation": "/ˈnʌθɪŋ/"
+  },
+  {
+    "name": "I'm wasting my time, I got nothing to do",
+    "trans": ["我在消磨时间，无事可做"],
+    "notation": "/aɪm ˈweɪstɪŋ maɪ taɪm, aɪ ɡɒt ˈnʌθɪŋ tuː duː/"
+  },
+  // ===== 单词拆分 + 完整句子：I'm hanging around, I'm waiting for you =====
+  {
+    "name": "hanging",
+    "trans": ["闲逛；悬挂"],
+    "notation": "/ˈhæŋɪŋ/"
+  },
+  {
+    "name": "around",
+    "trans": ["四处；周围"],
+    "notation": "/əˈraʊnd/"
+  },
+  {
+    "name": "waiting",
+    "trans": ["等待；等候"],
+    "notation": "/ˈweɪtɪŋ/"
+  },
+  {
+    "name": "for",
+    "trans": ["为了；给"],
+    "notation": "/fɔː/"
+  },
+  {
     "name": "I'm hanging around, I'm waiting for you",
     "trans": ["我四处闲逛，一直在等你"],
     "notation": "/aɪm ˈhæŋɪŋ əˈraʊnd, aɪm ˈweɪtɪŋ fɔː juː/"
   },
+  // ===== 单词拆分 + 完整句子：But nothing ever happens, and I wonder =====
   {
-    "name": "But nothing ever",
-    "trans": ["但什么都没"],
-    "notation": "/bʌt ˈnʌθɪŋ ˈevə/"
+    "name": "But",
+    "trans": ["但是；然而"],
+    "notation": "/bʌt/"
   },
   {
-    "name": "happens, and I",
-    "trans": ["发生，我"],
-    "notation": "/ˈhæpənz, ænd aɪ/"
+    "name": "happens",
+    "trans": ["发生；出现"],
+    "notation": "/ˈhæpənz/"
   },
   {
     "name": "wonder",
-    "trans": ["感到迷茫"],
+    "trans": ["想知道；感到迷茫"],
     "notation": "/ˈwʌndə/"
   },
   {
@@ -329,34 +518,36 @@
     "trans": ["但什么都没发生，我感到迷茫"],
     "notation": "/bʌt ˈnʌθɪŋ ˈevə ˈhæpənz, ænd aɪ ˈwʌndə/"
   },
+  // ===== 单词拆分 + 完整句子：I'm driving around in my car =====
   {
-    "name": "I'm driving around",
-    "trans": ["我开着车四处"],
-    "notation": "/aɪm ˈdraɪvɪŋ əˈraʊnd/"
+    "name": "driving",
+    "trans": ["驾驶；开车"],
+    "notation": "/ˈdraɪvɪŋ/"
   },
   {
-    "name": "in my car",
-    "trans": ["转悠"],
-    "notation": "/ɪn maɪ kɑː/"
+    "name": "car",
+    "trans": ["汽车；轿车"],
+    "notation": "/kɑː/"
   },
   {
     "name": "I'm driving around in my car",
     "trans": ["我开着车四处转悠"],
     "notation": "/aɪm ˈdraɪvɪŋ əˈraʊnd ɪn maɪ kɑː/"
   },
+  // ===== 单词拆分 + 完整句子：I'm driving too fast, I'm driving too far =====
   {
-    "name": "I'm driving too fast",
-    "trans": ["我开得太快"],
-    "notation": "/aɪm ˈdraɪvɪŋ tuː fɑːst/"
+    "name": "too",
+    "trans": ["太；也"],
+    "notation": "/tuː/"
   },
   {
-    "name": ", I'm driving too",
-    "trans": ["，开得太"],
-    "notation": "/, aɪm ˈdraɪvɪŋ tuː/"
+    "name": "fast",
+    "trans": ["快地；快速的"],
+    "notation": "/fɑːst/"
   },
   {
     "name": "far",
-    "trans": ["远"],
+    "trans": ["远地；遥远的"],
     "notation": "/fɑː/"
   },
   {
@@ -364,19 +555,25 @@
     "trans": ["我开得太快，开得太远"],
     "notation": "/aɪm ˈdraɪvɪŋ tuː fɑːst, aɪm ˈdraɪvɪŋ tuː fɑː/"
   },
+  // ===== 单词拆分 + 完整句子：I'd like to change my point of view =====
   {
-    "name": "I'd like to change",
-    "trans": ["我想换个"],
-    "notation": "/aɪd laɪk tuː tʃeɪndʒ/"
+    "name": "I'd",
+    "trans": ["我想要（I would 的缩写）"],
+    "notation": "/aɪd/"
   },
   {
-    "name": "my point of",
-    "trans": ["视角看"],
-    "notation": "/maɪ pɔɪnt ɒv/"
+    "name": "change",
+    "trans": ["改变；更换"],
+    "notation": "/tʃeɪndʒ/"
+  },
+  {
+    "name": "point",
+    "trans": ["观点；要点"],
+    "notation": "/pɔɪnt/"
   },
   {
     "name": "view",
-    "trans": ["事情"],
+    "trans": ["视角；看法"],
     "notation": "/vjuː/"
   },
   {
@@ -384,79 +581,98 @@
     "trans": ["我想换个视角看事情"],
     "notation": "/aɪd laɪk tuː tʃeɪndʒ maɪ pɔɪnt ɒv vjuː/"
   },
+  // ===== 单词拆分 + 完整句子：I feel so lonely, I'm waiting for you =====
   {
-    "name": "I feel so lonely",
-    "trans": ["我感到无比孤单"],
-    "notation": "/aɪ fiːl səʊ ˈləʊnli/"
+    "name": "feel",
+    "trans": ["感觉；觉得"],
+    "notation": "/fiːl/"
   },
   {
-    "name": ", I'm waiting for",
-    "trans": ["，一直在等"],
-    "notation": "/, aɪm ˈweɪtɪŋ fɔː/"
+    "name": "so",
+    "trans": ["如此；很"],
+    "notation": "/səʊ/"
   },
   {
-    "name": "you",
-    "trans": ["你"],
-    "notation": "/juː/"
+    "name": "lonely",
+    "trans": ["孤单的；孤独的"],
+    "notation": "/ˈləʊnli/"
   },
   {
     "name": "I feel so lonely, I'm waiting for you",
     "trans": ["我感到无比孤单，一直在等你"],
     "notation": "/aɪ fiːl səʊ ˈləʊnli, aɪm ˈweɪtɪŋ fɔː juː/"
   },
+  // ===== 单词拆分 + 完整句子：I wonder how, I wonder why =====
   {
-    "name": "I wonder how, I",
-    "trans": ["我不知道怎么回事"],
-    "notation": "/aɪ ˈwʌndə haʊ, aɪ/"
-  },
-  {
-    "name": "wonder why",
-    "trans": ["也不明白为什么"],
-    "notation": "/ˈwʌndə waɪ/"
+    "name": "why",
+    "trans": ["为什么；原因"],
+    "notation": "/waɪ/"
   },
   {
     "name": "I wonder how, I wonder why",
     "trans": ["我不知道怎么回事，也不明白为什么"],
     "notation": "/aɪ ˈwʌndə haʊ, aɪ ˈwʌndə waɪ/"
   },
+  // ===== 单词拆分 + 完整句子：Yesterday you told me about the blue blue sky =====
   {
-    "name": "Yesterday you told",
-    "trans": ["昨天你还跟"],
-    "notation": "/ˈjestədeɪ juː təʊld/"
+    "name": "Yesterday",
+    "trans": ["昨天"],
+    "notation": "/ˈjestədeɪ/"
   },
   {
-    "name": "me about the",
-    "trans": ["我说起那片"],
-    "notation": "/miː əˈbaʊt ðə/"
+    "name": "told",
+    "trans": ["告诉；讲述（tell 的过去式）"],
+    "notation": "/təʊld/"
   },
   {
-    "name": "blue blue sky",
-    "trans": ["蓝蓝的天空"],
-    "notation": "/bluː bluː skaɪ/"
+    "name": "about",
+    "trans": ["关于；大约"],
+    "notation": "/əˈbaʊt/"
+  },
+  {
+    "name": "blue",
+    "trans": ["蓝色的；蓝色"],
+    "notation": "/bluː/"
+  },
+  {
+    "name": "sky",
+    "trans": ["天空；天际"],
+    "notation": "/skaɪ/"
   },
   {
     "name": "Yesterday you told me about the blue blue sky",
     "trans": ["昨天你还跟我说起那片蓝蓝的天空"],
     "notation": "/ˈjestədeɪ juː təʊld miː əˈbaʊt ðə bluː bluː skaɪ/"
   },
+  // ===== 单词拆分 + 完整句子：And all that I can see is just a yellow lemon tree =====
   {
-    "name": "And all that I",
-    "trans": ["而我所能"],
-    "notation": "/ænd ɔːl ðæt aɪ/"
+    "name": "all",
+    "trans": ["所有；全部"],
+    "notation": "/ɔːl/"
   },
   {
-    "name": "can see is just",
-    "trans": ["看见的，只是"],
-    "notation": "/kæn siː ɪz dʒʌst/"
+    "name": "that",
+    "trans": ["那个；引导从句（无实义）"],
+    "notation": "/ðæt/"
   },
   {
-    "name": "a yellow lemon",
-    "trans": ["一棵黄色的柠檬"],
-    "notation": "/ə ˈjeləʊ ˈlemən/"
+    "name": "is",
+    "trans": ["是（be 动词单数）"],
+    "notation": "/ɪz/"
+  },
+  {
+    "name": "yellow",
+    "trans": ["黄色的；黄色"],
+    "notation": "/ˈjeləʊ/"
+  },
+  {
+    "name": "lemon",
+    "trans": ["柠檬；柠檬色的"],
+    "notation": "/ˈlemən/"
   },
   {
     "name": "tree",
-    "trans": ["树"],
+    "trans": ["树；树木"],
     "notation": "/triː/"
   },
   {
@@ -464,44 +680,67 @@
     "trans": ["而我所能看见的，只是一棵黄色的柠檬树"],
     "notation": "/ænd ɔːl ðæt aɪ kæn siː ɪz dʒʌst ə ˈjeləʊ ˈlemən triː/"
   },
+  // ===== 歌名：Love Story =====
   {
     "name": "Love Story",
     "trans": ["爱情故事"],
     "notation": "/lʌv ˈstɔːri/"
   },
+  // ===== 单词拆分 + 完整句子：We were both young when I first saw you =====
   {
-    "name": "We were both young",
-    "trans": ["当我第一次见你"],
-    "notation": "/wiː wɜː(r) bəʊ jʌŋ/"
+    "name": "We",
+    "trans": ["我们"],
+    "notation": "/wiː/"
   },
   {
-    "name": "when I first saw",
-    "trans": ["时，我们都还"],
-    "notation": "/wen aɪ fɜːst sɔː/"
+    "name": "were",
+    "trans": ["是（be 动词过去式，复数/第二人称）"],
+    "notation": "/wɜː(r)/"
   },
   {
-    "name": "you",
-    "trans": ["年轻"],
-    "notation": "/juː/"
+    "name": "both",
+    "trans": ["两者都；双方"],
+    "notation": "/bəʊ/"
+  },
+  {
+    "name": "young",
+    "trans": ["年轻的；年少的"],
+    "notation": "/jʌŋ/"
+  },
+  {
+    "name": "first",
+    "trans": ["第一次；首先"],
+    "notation": "/fɜːst/"
+  },
+  {
+    "name": "saw",
+    "trans": ["看见（see 的过去式）"],
+    "notation": "/sɔː/"
   },
   {
     "name": "We were both young when I first saw you",
     "trans": ["当我第一次见到你时，我们都还年轻"],
     "notation": "/wiː wɜː(r) bəʊ jʌŋ wen aɪ fɜːst sɔː juː/"
   },
+  // ===== 单词拆分 + 完整句子：I close my eyes and the flashback starts =====
   {
-    "name": "I close my eyes",
-    "trans": ["我闭上双眼"],
-    "notation": "/aɪ kləʊz maɪ aɪz/"
+    "name": "close",
+    "trans": ["闭上；关闭"],
+    "notation": "/kləʊz/"
   },
   {
-    "name": "and the flashback",
-    "trans": ["，回忆开始"],
-    "notation": "/ænd ðə ˈflæʃbæk/"
+    "name": "eyes",
+    "trans": ["眼睛（复数）"],
+    "notation": "/aɪz/"
+  },
+  {
+    "name": "flashback",
+    "trans": ["回忆；闪回"],
+    "notation": "/ˈflæʃbæk/"
   },
   {
     "name": "starts",
-    "trans": ["浮现"],
+    "trans": ["开始；启动（start 的第三人称单数）"],
     "notation": "/stɑːts/"
   },
   {
@@ -509,60 +748,95 @@
     "trans": ["我闭上双眼，回忆开始浮现"],
     "notation": "/aɪ kləʊz maɪ aɪz ænd ðə ˈflæʃbæk stɑːts/"
   },
+  // ===== 单词拆分 + 完整句子：Romeo, take me somewhere we can be alone =====
   {
-    "name": "Romeo, take me",
-    "trans": ["罗密欧，带我去"],
-    "notation": "/ˈrəʊmiəʊ, teɪk miː/"
+    "name": "Romeo",
+    "trans": ["罗密欧（人名）"],
+    "notation": "/ˈrəʊmiəʊ/"
   },
   {
-    "name": "somewhere we can",
-    "trans": ["一个只有我们"],
-    "notation": "/ˈsʌmweə wiː kæn/"
+    "name": "take",
+    "trans": ["带；拿"],
+    "notation": "/teɪk/"
   },
   {
-    "name": "be alone",
-    "trans": ["的地方"],
-    "notation": "/biː əˈləʊn/"
+    "name": "somewhere",
+    "trans": ["某个地方；某处"],
+    "notation": "/ˈsʌmweə/"
+  },
+  {
+    "name": "alone",
+    "trans": ["独自的；单独地"],
+    "notation": "/əˈləʊn/"
   },
   {
     "name": "Romeo, take me somewhere we can be alone",
     "trans": ["罗密欧，带我去一个只有我们的地方"],
     "notation": "/ˈrəʊmiəʊ, teɪk miː ˈsʌmweə wiː kæn biː əˈləʊn/"
   },
+  // ===== 歌名：You Belong With Me =====
   {
     "name": "You Belong With Me",
     "trans": ["你属于我"],
     "notation": "/juː bɪˈlɒŋ wɪð miː/"
   },
+  // ===== 单词拆分 + 完整句子：She wears short skirts, I wear T-shirts =====
   {
-    "name": "She wears short skirts",
-    "trans": ["她穿短裙"],
-    "notation": "/ʃiː weəz ʃɔːt skɜːts/"
+    "name": "She",
+    "trans": ["她"],
+    "notation": "/ʃiː/"
   },
   {
-    "name": ", I wear T-shirts",
-    "trans": ["，我穿T恤"],
-    "notation": "/, aɪ weəz ˈtiː ʃɜːts/"
+    "name": "wears",
+    "trans": ["穿；戴（wear 的第三人称单数）"],
+    "notation": "/weəz/"
+  },
+  {
+    "name": "short",
+    "trans": ["短的；矮的"],
+    "notation": "/ʃɔːt/"
+  },
+  {
+    "name": "skirts",
+    "trans": ["短裙（复数）"],
+    "notation": "/skɜːts/"
+  },
+  {
+    "name": "wear",
+    "trans": ["穿；戴"],
+    "notation": "/weəz/"
+  },
+  {
+    "name": "T-shirts",
+    "trans": ["T恤衫（复数）"],
+    "notation": "/ˈtiː ʃɜːts/"
   },
   {
     "name": "She wears short skirts, I wear T-shirts",
     "trans": ["她穿短裙，我穿T恤"],
     "notation": "/ʃiː weəz ʃɔːt skɜːts, aɪ weəz ˈtiː ʃɜːts/"
   },
+  // ===== 歌名：Better Man =====
   {
     "name": "Better Man",
     "trans": ["更好的人"],
     "notation": "/ˈbetə mæn/"
   },
+  // ===== 单词拆分 + 完整句子：I'll be a better man today =====
   {
-    "name": "I'll be a better",
-    "trans": ["今天我会成为"],
-    "notation": "/aɪl biː ə ˈbetə/"
+    "name": "better",
+    "trans": ["更好的；更好地"],
+    "notation": "/ˈbetə/"
   },
   {
-    "name": "man today",
-    "trans": ["一个更好的人"],
-    "notation": "/mæn təˈdeɪ/"
+    "name": "man",
+    "trans": ["男人；人"],
+    "notation": "/mæn/"
+  },
+  {
+    "name": "today",
+    "trans": ["今天；今日"],
+    "notation": "/təˈdeɪ/"
   },
   {
     "name": "I'll be a better man today",
