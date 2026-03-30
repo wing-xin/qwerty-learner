@@ -1,11 +1,14 @@
 [
-  // ===== 歌名：count on me =====
   {
     "name": "count on me",
     "trans": ["依靠我"],
     "notation": "/kaʊnt ɒn miː/"
   },
-  // ===== 单词拆分 + 完整句子：If you ever find yourself stuck in the middle of the sea =====
+  {
+    "name": "count on me",
+    "trans": ["依靠我"],
+    "notation": "/kaʊnt ɒn miː/"
+  },
   {
     "name": "If",
     "trans": ["如果"],
@@ -66,7 +69,6 @@
     "trans": ["如果你发现自己被困在大海中央"],
     "notation": "/ɪf juː ˈevə faɪnd jɔːˈself stʌk ɪn ðə ˈmɪdl ɒv ðə siː/"
   },
-  // ===== 单词拆分 + 完整句子：I'll sail the world to find you =====
   {
     "name": "I'll",
     "trans": ["我会（I will 的缩写）"],
@@ -92,7 +94,6 @@
     "trans": ["我会航行全世界去寻找你"],
     "notation": "/aɪl seɪl ðə wɜːld tuː faɪnd juː/"
   },
-  // ===== 单词拆分 + 完整句子：If you ever find yourself lost in the dark and you can't see =====
   {
     "name": "lost",
     "trans": ["迷失的；丢失的"],
@@ -123,7 +124,6 @@
     "trans": ["如果你发现自己迷失在黑暗中，什么也看不见"],
     "notation": "/ɪf juː ˈevə faɪnd jɔːˈself lɒst ɪn ðə dɑːk ænd juː kænt siː/"
   },
-  // ===== 单词拆分 + 完整句子：I'll be the light to guide you =====
   {
     "name": "be",
     "trans": ["是；成为"],
@@ -144,7 +144,6 @@
     "trans": ["我会成为光芒指引你"],
     "notation": "/aɪl biː ðeə laɪt tuː ɡaɪd juː/"
   },
-  // ===== 单词拆分 + 完整句子：You can count on me like one two three =====
   {
     "name": "can",
     "trans": ["能够；可以"],
@@ -190,7 +189,6 @@
     "trans": ["你可以像数1、2、3一样依靠我"],
     "notation": "/juː kæn kaʊnt ɒn miː laɪk wʌn tuː θriː/"
   },
-  // ===== 单词拆分 + 完整句子：I'll be there =====
   {
     "name": "there",
     "trans": ["那里；在那里"],
@@ -206,7 +204,6 @@
     "trans": ["我会在你身边"],
     "notation": "/aɪl biː ðeə/"
   },
-  // ===== 单词拆分 + 完整句子：And I know when I need it =====
   {
     "name": "And",
     "trans": ["和；而且"],
@@ -237,7 +234,6 @@
     "trans": ["而我知道当我需要的时候"],
     "notation": "/ænd aɪ nəʊ wen aɪ niːd ɪt/"
   },
-  // ===== 单词拆分 + 完整句子：I can count on you like four three two =====
   {
     "name": "four",
     "trans": ["四；四个"],
@@ -248,7 +244,6 @@
     "trans": ["我也可以像数4、3、2一样依靠你"],
     "notation": "/aɪ kæn kaʊnt ɒn juː laɪk fɔː θriː tuː/"
   },
-  // ===== 单词拆分 + 完整句子：You'll be there =====
   {
     "name": "You'll",
     "trans": ["你会（You will 的缩写）"],
@@ -264,7 +259,6 @@
     "trans": ["你也会在我身边"],
     "notation": "/juːl biː ðeə/"
   },
-  // ===== 单词拆分 + 完整句子：Cause that's what friends are supposed to do =====
   {
     "name": "Cause",
     "trans": ["因为（Because 的缩写）"],
@@ -305,7 +299,6 @@
     "trans": ["因为朋友本就该如此"],
     "notation": "/kɔːz ðæts wɒt frendz ɑː(r) səˈpəʊzd tuː duː/"
   },
-  // ===== 单词拆分 + 完整句子：If you're tossing and you're turning and you just can't fall asleep =====
   {
     "name": "you're",
     "trans": ["你是（you are 的缩写）"],
@@ -341,7 +334,6 @@
     "trans": ["如果你辗转反侧，无法入睡"],
     "notation": "/ɪf jʊə ˈtɒsɪŋ ænd jʊə ˈtɜːnɪŋ ænd juː dʒʌst kænt fɔːl əˈsliːp/"
   },
-  // ===== 单词拆分 + 完整句子：I'll sing a song beside you =====
   {
     "name": "sing",
     "trans": ["唱歌；演唱"],
@@ -367,7 +359,6 @@
     "trans": ["我会在你身边唱一首歌"],
     "notation": "/aɪl sɪŋ ə sɒŋ bɪˈsaɪd juː/"
   },
-  // ===== 单词拆分 + 完整句子：And if you ever forget how much you really mean to me =====
   {
     "name": "forget",
     "trans": ["忘记；遗忘"],
@@ -398,7 +389,6 @@
     "trans": ["如果你忘了你对我有多重要"],
     "notation": "/ænd ɪf juː ˈevə fəˈɡet haʊ mʌtʃ juː ˈriːəli miːn tuː miː/"
   },
-  // ===== 单词拆分 + 完整句子：Every day I will remind you =====
   {
     "name": "Every",
     "trans": ["每一个；每个"],
@@ -424,13 +414,11 @@
     "trans": ["我每天都会提醒你"],
     "notation": "/ˈevri deɪ aɪ wɪl rɪˈmaɪnd juː/"
   },
-  // ===== 歌名：lemon tree =====
   {
     "name": "lemon tree",
     "trans": ["柠檬树"],
     "notation": "/ˈlemən triː/"
   },
-  // ===== 单词拆分 + 完整句子：I'm wasting my time, I got nothing to do =====
   {
     "name": "I'm",
     "trans": ["我是（I am 的缩写）"],
@@ -471,7 +459,6 @@
     "trans": ["我在消磨时间，无事可做"],
     "notation": "/aɪm ˈweɪstɪŋ maɪ taɪm, aɪ ɡɒt ˈnʌθɪŋ tuː duː/"
   },
-  // ===== 单词拆分 + 完整句子：I'm hanging around, I'm waiting for you =====
   {
     "name": "hanging",
     "trans": ["闲逛；悬挂"],
@@ -497,7 +484,6 @@
     "trans": ["我四处闲逛，一直在等你"],
     "notation": "/aɪm ˈhæŋɪŋ əˈraʊnd, aɪm ˈweɪtɪŋ fɔː juː/"
   },
-  // ===== 单词拆分 + 完整句子：But nothing ever happens, and I wonder =====
   {
     "name": "But",
     "trans": ["但是；然而"],
@@ -518,7 +504,6 @@
     "trans": ["但什么都没发生，我感到迷茫"],
     "notation": "/bʌt ˈnʌθɪŋ ˈevə ˈhæpənz, ænd aɪ ˈwʌndə/"
   },
-  // ===== 单词拆分 + 完整句子：I'm driving around in my car =====
   {
     "name": "driving",
     "trans": ["驾驶；开车"],
@@ -534,7 +519,6 @@
     "trans": ["我开着车四处转悠"],
     "notation": "/aɪm ˈdraɪvɪŋ əˈraʊnd ɪn maɪ kɑː/"
   },
-  // ===== 单词拆分 + 完整句子：I'm driving too fast, I'm driving too far =====
   {
     "name": "too",
     "trans": ["太；也"],
@@ -555,7 +539,6 @@
     "trans": ["我开得太快，开得太远"],
     "notation": "/aɪm ˈdraɪvɪŋ tuː fɑːst, aɪm ˈdraɪvɪŋ tuː fɑː/"
   },
-  // ===== 单词拆分 + 完整句子：I'd like to change my point of view =====
   {
     "name": "I'd",
     "trans": ["我想要（I would 的缩写）"],
@@ -581,7 +564,6 @@
     "trans": ["我想换个视角看事情"],
     "notation": "/aɪd laɪk tuː tʃeɪndʒ maɪ pɔɪnt ɒv vjuː/"
   },
-  // ===== 单词拆分 + 完整句子：I feel so lonely, I'm waiting for you =====
   {
     "name": "feel",
     "trans": ["感觉；觉得"],
@@ -602,7 +584,6 @@
     "trans": ["我感到无比孤单，一直在等你"],
     "notation": "/aɪ fiːl səʊ ˈləʊnli, aɪm ˈweɪtɪŋ fɔː juː/"
   },
-  // ===== 单词拆分 + 完整句子：I wonder how, I wonder why =====
   {
     "name": "why",
     "trans": ["为什么；原因"],
@@ -613,7 +594,6 @@
     "trans": ["我不知道怎么回事，也不明白为什么"],
     "notation": "/aɪ ˈwʌndə haʊ, aɪ ˈwʌndə waɪ/"
   },
-  // ===== 单词拆分 + 完整句子：Yesterday you told me about the blue blue sky =====
   {
     "name": "Yesterday",
     "trans": ["昨天"],
@@ -644,7 +624,6 @@
     "trans": ["昨天你还跟我说起那片蓝蓝的天空"],
     "notation": "/ˈjestədeɪ juː təʊld miː əˈbaʊt ðə bluː bluː skaɪ/"
   },
-  // ===== 单词拆分 + 完整句子：And all that I can see is just a yellow lemon tree =====
   {
     "name": "all",
     "trans": ["所有；全部"],
@@ -680,13 +659,11 @@
     "trans": ["而我所能看见的，只是一棵黄色的柠檬树"],
     "notation": "/ænd ɔːl ðæt aɪ kæn siː ɪz dʒʌst ə ˈjeləʊ ˈlemən triː/"
   },
-  // ===== 歌名：Love Story =====
   {
     "name": "Love Story",
     "trans": ["爱情故事"],
     "notation": "/lʌv ˈstɔːri/"
   },
-  // ===== 单词拆分 + 完整句子：We were both young when I first saw you =====
   {
     "name": "We",
     "trans": ["我们"],
@@ -722,7 +699,6 @@
     "trans": ["当我第一次见到你时，我们都还年轻"],
     "notation": "/wiː wɜː(r) bəʊ jʌŋ wen aɪ fɜːst sɔː juː/"
   },
-  // ===== 单词拆分 + 完整句子：I close my eyes and the flashback starts =====
   {
     "name": "close",
     "trans": ["闭上；关闭"],
@@ -748,7 +724,6 @@
     "trans": ["我闭上双眼，回忆开始浮现"],
     "notation": "/aɪ kləʊz maɪ aɪz ænd ðə ˈflæʃbæk stɑːts/"
   },
-  // ===== 单词拆分 + 完整句子：Romeo, take me somewhere we can be alone =====
   {
     "name": "Romeo",
     "trans": ["罗密欧（人名）"],
@@ -774,13 +749,11 @@
     "trans": ["罗密欧，带我去一个只有我们的地方"],
     "notation": "/ˈrəʊmiəʊ, teɪk miː ˈsʌmweə wiː kæn biː əˈləʊn/"
   },
-  // ===== 歌名：You Belong With Me =====
   {
     "name": "You Belong With Me",
     "trans": ["你属于我"],
     "notation": "/juː bɪˈlɒŋ wɪð miː/"
   },
-  // ===== 单词拆分 + 完整句子：She wears short skirts, I wear T-shirts =====
   {
     "name": "She",
     "trans": ["她"],
@@ -816,13 +789,11 @@
     "trans": ["她穿短裙，我穿T恤"],
     "notation": "/ʃiː weəz ʃɔːt skɜːts, aɪ weəz ˈtiː ʃɜːts/"
   },
-  // ===== 歌名：Better Man =====
   {
     "name": "Better Man",
     "trans": ["更好的人"],
     "notation": "/ˈbetə mæn/"
   },
-  // ===== 单词拆分 + 完整句子：I'll be a better man today =====
   {
     "name": "better",
     "trans": ["更好的；更好地"],
